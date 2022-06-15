@@ -1,0 +1,16 @@
+signup user pass
+login user pass
+signup user pass
+login user pass
+deposit 1000
+show_goods
+credit
+buy watch 1
+credit
+deposit 1000
+show_goods
+buy watch 2
+buy watch 1
+credit
+show_goods
+logout

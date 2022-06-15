@@ -1,0 +1,25 @@
+800
+800
+801
+801
+800
+good name, price, count
+watch, 1000, 20
+phone, 10000, 5
+laptop, 200000, 3
+1000
+810
+0
+800
+good name, price, count
+watch, 1000, 19
+phone, 10000, 5
+laptop, 200000, 3
+809
+810
+0
+good name, price, count
+watch, 1000, 18
+phone, 10000, 5
+laptop, 200000, 3
+800
